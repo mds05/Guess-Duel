@@ -16,17 +16,17 @@ One player (the Attacker) sets a secret number, while the other player (the Defe
 - Resizable game window with dynamic UI adjustment
 - Champion screen displayed upon successful completion of all levels in a category
 
-Gameplay Overview
+## Gameplay Overview
 The Attacker secretly selects a number based on the current level. The Defender attempts to guess the number within a limited number of attempts. Each incorrect guess reduces the Defender's HP. In levels 3 to 5, hints are provided after two wrong guesses. If the Defender successfully guesses the number, they move on to the next level. After completing all five levels in a category, the player is declared the Champion of that category.
 
-#Screenshots
+## Screenshots
 
-Built With
-Python 3
+## Built With
+-Python 3
 
-PyGame
+-PyGame
 
-Amazon Q CLI
+-Amazon Q CLI
 
-Acknowledgments
+## Acknowledgments
 Thanks to Amazon Q CLI for streamlining the development experience and helping bring this game to life. Much of the game's logic, structure, and polish were built through iterative prompting and refinement using Q CLI.
